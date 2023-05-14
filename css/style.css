@@ -289,7 +289,7 @@ header, footer {
 @media (max-width: 550px) {
     .about {
         background-image: none;
-        height: 100vh;
+        height: 65vh;
     }
 }
 
